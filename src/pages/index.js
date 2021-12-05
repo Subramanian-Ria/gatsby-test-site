@@ -10,10 +10,8 @@ const IndexPage = () => {
       <iframe width="560" height="315" src="https://www.youtube.com/embed/tajDxBaPBBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       <p>test2</p>
       <iframe width="560" height="315" src="https://www.pennovation.upenn.edu/news/how-femmehacks-inspired-200-women-keep-pursuing-tech-careers" title="Test" frameborder="0"></iframe>
-      <p>test4</p>
-      <object data="https://www.pennovation.upenn.edu/news/how-femmehacks-inspired-200-women-keep-pursuing-tech-careers" width="400" height="300" type="text/html">
-        Alternative Content
-      </object>
+      <p>test5</p>
+      <object data="https://www.pennovation.upenn.edu/news/how-femmehacks-inspired-200-women-keep-pursuing-tech-careers" width="400" height="300" type="text/html"></object>
     </main>
   )
 }

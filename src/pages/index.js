@@ -7,7 +7,7 @@ const IndexPage = () => {
       <title>Home Page</title>
       <h1>Welcome to my Gatsby site!</h1>
       <p>I'm making this by following the Gatsby Tutorial.</p>
-    </main>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/tajDxBaPBBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    </main>
   )
 }
 // Step 3: Export your component

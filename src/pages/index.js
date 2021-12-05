@@ -8,7 +8,7 @@ const IndexPage = () => {
       <h1>Welcome to my Gatsby site!</h1>
       <p>I'm making this by following the Gatsby Tutorial.</p>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/tajDxBaPBBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      <p>test</p>
+      <p>test2</p>
       <iframe width="560" height="315" src="https://www.pennovation.upenn.edu/news/how-femmehacks-inspired-200-women-keep-pursuing-tech-careers" title="Test" frameborder="0"></iframe>
     </main>
   )
